@@ -1,4 +1,4 @@
-# Aurora----online-shopping-website
+### Aurora----online-shopping-website
 Techstack: Springboot, Hibernate, Junit, Maven, React.js   
 version:0.0.13
 ## Open the website: 
@@ -22,11 +22,11 @@ https://aurora--online-shopping-websit.herokuapp.com/
 ## SIGNUP
 sign up
 ### HTTP REQUEST
-POST /signup
-back end signup up user(if not duplicated email), write email to user account
+POST /signup    
+back end signup up user(if not duplicated email), write email to user account    
 ### REQUEST BODY
 | Name     | Type   | Description          | Required(default yes) |
-|----------|--------|----------------------|--)---------------------|
+|----------|--------|----------------------|-----------------------|
 | name     | String | name of the user     |                       |
 | email    | String | email of the user    |                       |
 | password | String | password of the user |                       |
