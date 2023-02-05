@@ -8,7 +8,7 @@ Techstack:
 * host: heroku
 * connection: SSL
 
-version:0.0.13
+version:0.2.3
 #### Open the website: 
 (https://aurora-frontend.herokuapp.com)    
 
