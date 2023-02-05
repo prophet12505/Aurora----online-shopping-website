@@ -9,12 +9,13 @@ Techstack:
 * connection: SSL
 
 version:0.0.13
-## Open the website: 
+#### Open the website: 
+(https://aurora-frontend.herokuapp.com)    
 
-frontend repository:    
+#### frontend repository:    
 https://github.com/prophet12505/Aurora-frontend    
 
-backend APi url:
+#### backend APi url:
 https://aurora--online-shopping-websit.herokuapp.com/
 
 
