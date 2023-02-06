@@ -7,6 +7,8 @@ import { getProductDetailByClickAction } from '../../actions/productActions';
 import { useDispatch } from 'react-redux';
 import { useParams } from 'react-router-dom';
 import { addToCartAction } from '../../actions/cartItemActions';
+import { useLocation } from 'react-router-dom';
+
 
 const ProductDetailPanel = () => {
     const dispatch=useDispatch();
@@ -20,8 +22,12 @@ const ProductDetailPanel = () => {
         price:'0',
         unitInStock:99,
     });
-    const {id}=useParams();
+
+    const location = useLocation();
+  const queryParams = new URLSearchParams(location.search);
+  const id = queryParams.get('id');
     useEffect(()=>{
+        console.log("id:"+id);
         dispatch(getProductDetailByClickAction(id));
     },[]);
     useEffect(()=>{

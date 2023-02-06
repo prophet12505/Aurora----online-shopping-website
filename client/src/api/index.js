@@ -50,6 +50,7 @@ export const getProductById=(id)=>{
         console.log(error);
     }
 }
+
 export const verifyEmail=(token)=>{
     try {
         const res=axios.get(url+"/verify-email",{
@@ -62,6 +63,7 @@ export const verifyEmail=(token)=>{
         console.log(error);
     }
 }
+
 export const keepLoginState=(token)=>{
     try {
         const res=axios.get(url+"/keep-login-state",{
