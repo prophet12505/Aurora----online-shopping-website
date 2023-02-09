@@ -1,5 +1,7 @@
 ### Aurora----online-shopping-website
-Techstack: 
+#### ***show your support for this innovative project by clicking the 'Star' button on our GitHub repository! Your recognition means a lot to us and will help us continue to improve and grow this platform!***
+
+#### Techstack: 
 * frontend: react.js(redux,axios,body-parser,jwt)
 * backend: Springboot, JPA, JDBC,Hibernate, 
 * test:Junit(Unit test),Postman(API test)
