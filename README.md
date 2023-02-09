@@ -19,7 +19,7 @@ https://aurora--online-shopping-websit.herokuapp.com/
 * host: heroku
 * connection: SSL
 
-version:0.2.3
+version:0.4.0
 
 
 
