@@ -1,6 +1,15 @@
 ### Aurora----online-shopping-website
 #### ***show your support for this innovative project by clicking the 'Star' button on our GitHub repository! Your recognition means a lot to us and will help us continue to improve and grow this platform!***
 
+#### Visit the website: 
+(https://aurora-frontend.herokuapp.com)    
+
+#### frontend repository:    
+https://github.com/prophet12505/Aurora-frontend    
+
+#### backend APi url:
+https://aurora--online-shopping-websit.herokuapp.com/
+
 #### Techstack: 
 * frontend: react.js(redux,axios,body-parser,jwt)
 * backend: Springboot, JPA, JDBC,Hibernate, 
@@ -11,14 +20,7 @@
 * connection: SSL
 
 version:0.2.3
-#### Open the website: 
-(https://aurora-frontend.herokuapp.com)    
 
-#### frontend repository:    
-https://github.com/prophet12505/Aurora-frontend    
-
-#### backend APi url:
-https://aurora--online-shopping-websit.herokuapp.com/
 
 
 
